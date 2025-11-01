@@ -6,7 +6,7 @@ Welcome to the source code of my **developer portfolio website**, built with mod
 
 ## 🌐 Live Demo
 
-[View Live Portfolio](https://imthiyas07.github.io/portfolio/) <!-- Replace with your live link like Netlify or GitHub Pages -->
+[View Live Portfolio](https://imthiyas007.github.io/intro/) <!-- Replace with your live link like Netlify or GitHub Pages -->
 
 ---
 
@@ -70,8 +70,6 @@ Or just open `index.html` directly in your browser.
 
 ## 🔗 Connect With Me
 
-- **Email**: imthiyasr142@gmail.com   
-- **LinkedIn**: https://www.linkedin.com/in/imthiyas-r-6b41802ba/
 - **GitHub**: https://github.com/Imthiyas07/
 
 ---
